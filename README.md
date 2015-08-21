@@ -2,7 +2,7 @@
 This is my first repo. **Yay.** 
 I want to learn *new* things.
 
-حل العربية عمل في غيتحوب؟
+~~حل العربية عمل في غيتحوب؟~~
 
 * bullet 1
 * bullet 2
